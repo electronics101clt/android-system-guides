@@ -214,3 +214,58 @@ October 5, 2026
 
 ## Device Connection
 Currently connected via ADB (O7VODQ9HR48LDE89)
+
+## Brand Discovery & Purchase Information
+
+### IMPORTANT: ZScreen Branding
+This device has **ZScreen** branding installed via custom launcher (`com.zscreen.metro`).
+
+**ZScreen is NOT a manufacturer** - it's a local Charlotte, NC car audio installation service:
+- Website: https://zscreen.net/
+- Service: Mobile automotive technician for car audio installation
+- They install Android head units and customize them with their branded launcher
+
+### This Means:
+**The device was likely purchased from ZScreen Electronics in Charlotte, NC**, who:
+1. Sourced a generic UJC201/AC8257 unit
+2. Installed their custom "MetroStart" launcher
+3. Provided it as part of their installation service
+
+### Finding Identical Units Online
+
+Since this is a generic Chinese unit with ZScreen branding added locally, search for:
+
+#### Brand Names These Are Sold Under:
+- **Podofo** (very common on Amazon)
+- **AWESAFE**
+- **Hikity**  
+- **CUSP**
+- **Haudio**
+- **Seicane**
+- **Driauto**
+- **Unbranded/Generic** (most common on eBay)
+
+#### Best Search Terms:
+```
+"10.1 inch universal android car stereo 4GB 64GB"
+"double din android head unit 4+64"
+"universal android car radio 1280x720"
+"android 9 universal car stereo 4GB"
+```
+
+#### What NOT to Search:
+- ❌ "ZScreen car stereo" (won't find anything - it's a local installer)
+- ❌ "AC8257" (rarely marketed by chipset name)
+- ❌ "UJC201" (internal model, not advertised)
+
+#### Where to Buy:
+- **Amazon**: Search "Podofo 10.1 android car stereo"
+- **eBay**: Search "universal double din android 4GB 64GB"
+- **AliExpress**: Search "universal android head unit 4+64"
+
+### Warning:
+Most units you find will have **release-keys** firmware and will NOT be as open/moddable as this test-keys build. Always verify before purchase if you need root/system access.
+
+---
+
+**Updated**: October 5, 2026
